@@ -1,0 +1,5 @@
+cn\edu\cuit\ssm\entity\Goods.class
+cn\edu\cuit\ssm\controller\UserController.class
+cn\edu\cuit\ssm\service\impl\UserServiceImpl.class
+cn\edu\cuit\ssm\service\UserService.class
+cn\edu\cuit\ssm\mapper\UserMapper.class
